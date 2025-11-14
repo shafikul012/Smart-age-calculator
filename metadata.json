@@ -1,0 +1,5 @@
+{
+  "name": "Smart Age Calculator",
+  "description": "A simple and modern age calculator app that calculates your current age in years, months, and days, and shows a countdown to your next birthday.",
+  "requestFramePermissions": []
+}
